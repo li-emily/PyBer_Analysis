@@ -16,10 +16,13 @@ This assignment had us practicing mostly with manipulation of DataFrames using P
 ## Results
 
 ### PyBer Summary DataFrame
+![PyBer Summary DataFrame](https://github.com/li-emily/PyBer_Analysis/blob/main/analysis/Summary_DataFrame.png)
 
 Based on the above data, we can see how total rides, drivers, and fares break down across all city types. By adding average fare per ride and average fare per driver, we are able to more easily directly compare Rural, Suburban, and Urban cities against each other. We can see that total rides outnumber total drivers in both Rural and Suburban cities, while total rides outnumbers total drivers in Urban cities. As a result, despite total fares being much higher for Urban cities, the average fare per driver is much lower. Average fare per ride is also lower in Urban cities. Rural cities have the highest average fare per ride and average fare per driver.
 
 ### Weekly Fare by City Type
+![Weekly Fare by City Type](https://github.com/li-emily/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 This graph provides an easy visualization that total PyBer fares earned go in order by Urban, then Suburban, and finally Rural cities. There is a slight overall spike across the board in the last week of February 2020. 
 - Urban cities had mild fluctuations, with spikes up and down mostly around the month of March, with modest growth. Urban cities started at around $1,700 per week in January and grew to roughly $2,250 by the end of April.
 - Suburban cities mostly had that slight increase in the last week of February, also with modest growth from around $750 to $1,400.
