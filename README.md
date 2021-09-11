@@ -25,8 +25,8 @@ This graph provides an easy visualization that total PyBer fares earned go in or
 - Suburban cities mostly had that slight increase in the last week of February, also with modest growth from around $750 to $1,400.
 - Rural cities had an overall more jagged weekly fare throughout time, but mostly remained below $500, roughly starting and finishing at the $200 mark. 
 
-# Summary
+## Summary
 Based on the results, these are three business recommendations to the CEO for addressing any disparities among the city types.
-- Check to see what happened in late February, slight overall spike. Check overall fluctuations to see what is powering them.
-- Do more analysis in regards to each city types' length of ride, how fare is calculated
-- There are more drivers than rides in Urban cities. This means that there is at least 780 drivers who are not getting any passenger rides, and presumably, not earning any money. Must figure out how to fix this disparity, whether by advertising PyBer rides more to help attract more customers, or encouraging higher standards for drivers to eliminate this overabundance.
+- Because of the overall spike in all rides across city types in late February, there should be some information gathering on why this occurred. Was this due to a promotion on PyBer's part, or an outside influence like a popular movie that motivates more people to go out? PyBer should also check overall fluctuations by city type to see what is powering them, because figuring out the reason behind these sudden spikes and slumps will help the company make more accurate future decisions. 
+- PyBer should also do more analysis in regards to local gas prices in these cities. This is mainly due to Rural city rides, which are expected to be longer and thus have higher fares, but the drivers themselves are potentially also spending more. Additionally, gas is potentially also more expensive for Rural cities. Collecting local gas prices would help PyBer calculate costs that drivers would need in order to turn a profit, and decide which direction PyBer itself needs to go towards to raise revenue.
+- A potentially concerning issue is that there are more drivers than rides in Urban cities. Based on the data, this means that there is at least 780 drivers who are not getting any passenger rides, and presumably, not earning any money. PyBer must figure out how to fix this disparity, which could be by advertising PyBer rides more to help attract more customers, or encouraging higher standards for drivers to eliminate this overabundance.
